@@ -1,15 +1,15 @@
 ﻿<?php
 $config = array(
-	'sitename' => 'Albania RolePlay' ,// Название вашего сайта. 
-	'siteurl' => 'http://albaniarp.ru/',// URL адрес сайта.
+	'sitename' => 'Prestigio RolePlay' ,// Название вашего сайта. 
+	'siteurl' => 'http://tatsuki16.github.io/',// URL адрес сайта.
 	'meta' => '',
-	'forum' => 'http://albaniarp.ru/forum',// URL адрес форума. 
+	'forum' => 'http://tatsuki16.github.io/forum',// URL адрес форума. 
 	'ipserver' => 'localhost:7777',// IP адрес вашего сервера. 
 	//База 
-	'host' => '87.98.252.100',
-	'user' => 'albania1_db',
-	'pass' => 'CRtUszd0Kx',
-	'db' => 'albania1_db',
+	'host' => 'localhost',
+	'user' => 'root',
+	'pass' => '',
+	'db' => 'prestigio',
 	//rk
 	'rklogin' => 'socialrp',
 	'rkpass1' => 'USUXV3eL0WAaEW6fk5S4',
